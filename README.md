@@ -100,8 +100,8 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-09-19 201210.png>)
-![alt text](<Screenshot 2025-09-19 201317.png>)
+![alt text](<"C:\Users\acer\Pictures\Screenshots\Screenshot 2025-09-22 110658.png>)
+![alt text](<"C:\Users\acer\Pictures\Screenshots\Screenshot 2025-09-22 110726.png">)
 
 
 # RESULT:
